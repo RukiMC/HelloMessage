@@ -1,0 +1,8 @@
+# Default MOTD
+default: <rainbow>This is Default Message of HelloMessage.</rainbow>
+
+# MOTD for Languages
+# Set use-client-lang=true in config.yml.
+# Format: ISO3Lang_ISO3Country
+eng_usa: <rainbow>Hello!</rainbow>
+kor_kor: <rainbow>안녕하세요!</rainbow>

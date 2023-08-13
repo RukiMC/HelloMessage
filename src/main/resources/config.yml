@@ -1,0 +1,9 @@
+Lang:
+  # plugin language
+  # eng_usa / kor_kor
+  lang: eng_usa
+
+Option:
+  # Show different MOTD for client's language.
+  # HelloMessage loads the MOTD in the order of client language => plugin language => default.
+  use-user-lang: false

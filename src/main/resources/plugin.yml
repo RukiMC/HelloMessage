@@ -1,0 +1,4 @@
+name: HelloMessage
+version: '${version}'
+main: space.zlfn.hellomessage.HelloMessage
+api-version: '1.20'
