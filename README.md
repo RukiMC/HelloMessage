@@ -32,7 +32,7 @@ kor_kor: <rainbow>안녕하세요!</rainbow>
 #### Localization
 Add .yml file to the resources/lang folder, copy eng_usa.yml, and start translation
 
-English and Korean are provided as basic languages, and **Korean is the original text**.
+English and Korean are provided as basic languages.
 
 > NOTE: yml file name format is `ISO3 Language`_`ISO3 Country`.yml
 > Please note [ISO 639-3](https://iso639-3.sil.org/code_tables/639/data)
